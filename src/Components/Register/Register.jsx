@@ -129,11 +129,11 @@ const Register = () => {
             </div> 
           </div>
 
-
           <button type='submit' className='btn flex'>
             <span>Concluir Registro</span>
             <AiOutlineArrowRight className="icon" />
           </button>
+
 
         </form>
       </div>
